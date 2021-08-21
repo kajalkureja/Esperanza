@@ -1,23 +1,23 @@
 <%- include("partials/header") -%>
-<link rel="stylesheet" href="/public/css/home.css">
-
+<link rel="stylesheet" href="/css/home.css">
+<div class="start">
 <section id="navbar">
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Navbar</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
+     
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
-        <ul class="navbar-nav">
+        <ul class="navbar-nav ms-auto styleNav">
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="#">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Features</a>
+            <a class="nav-link" href="#">Book</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Pricing</a>
+            <a class="nav-link" href="#">History</a>
+          </li>
+          <li class="nav-item">
+            <button type="button" class="btn btnStyle">SIGN IN</button>
           </li>
          
         </ul>
@@ -25,3 +25,58 @@
     </div>
   </nav>
      </section>
+
+  <section id="header">
+     <div class="container">
+       <div class="row">
+         <div class="col-sm-6">
+       <img src="/images/doctor.png" style="position: relative; left: -160px" alt="doctor"/>
+      </div>
+      <div class="col-sm-6">
+        <h1 class="aboutHeading">Say yes to <br> good health</h1>
+        <button class="btn medicalBtn">MEDICAL HISTORY</button>
+        <button class="btn medicalBtn2">FIND YOUR DOCTOR</button>
+       </div>
+      </div>
+     </div>
+  </section>
+    </div>
+  
+  <section id="about">
+  
+    <div class="bgAbout">
+      <br> <br>
+    <h1 class="aboutStyle"><span style="font-family: Roboto;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 48px;
+      line-height: 56px;
+      
+      color: #FE4A5B;
+      ">AB</span>OUT</h1>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6">
+              <p class="paraStyle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                 ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Duis aute irure dolor in reprehenderit in voluptate velit esse
+                   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
+                   cupidatat non proident, sunt in culpa qui officia deserunt mollit 
+                   anim id est laborum.
+                   eu fugiat nulla pariatur. Excepteur sint occaecat 
+                   cupidatat non proident, sunt in culpa qui officia deserunt mollit 
+                   anim id est laborum.</p>
+                  </div>
+                  <div class="col-sm-6">
+                    <img src="/images/aboutImage.png" alt="checkup" style="width: 546px;
+                    height: 476px;
+                    position: relative;
+                    right:-30%">
+                  </div>
+                </div>
+      </div>
+    </div>
+  </section>
+  <section id="features">
+    
+  </section>
