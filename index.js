@@ -13,6 +13,11 @@ app.use(express.static("public"));
 app.get("/home", function(req, res){
     res.render("home")
 });
+
+app.get("/records", function(req, res){
+    res.render("records")
+});
+
 app.listen(process.env.PORT || 3000, function(){
     console.log("Express server listening on port %d", this.address().port);
   });
