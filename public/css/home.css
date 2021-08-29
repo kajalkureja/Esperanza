@@ -1,29 +1,28 @@
 .btnStyle{
-
-
 height: 40px;
 color:#fff;
 background-color: #FE4A5B;
 border-radius: 5px;
 font-family: Roboto;
-font-size: 22px;
+font-size: 14px;
 font-style: normal;
-font-weight: 700;
 line-height: 26px;
 letter-spacing: 0em;
 text-align: left;
-padding: 8px 8px 8px 8px;
+font-weight: 400;
+padding: 4px 8px 4px 8px;
 }
 
+
 .styleNav > li{
-    font-family: Roboto;
-font-size: 22px;
+font-family: Roboto;
+font-size: 14px;
 font-style: normal;
-font-weight: 400;
 line-height: 26px;
 letter-spacing: 0em;
 text-align: left;
-padding-left: 10px;
+padding-left: 8px;
+color: black;
 }
 
 
@@ -34,29 +33,29 @@ padding-left: 10px;
 }
 
 .aboutHeading{
-    font-family: Roboto;
+font-family: Roboto;
 font-size: 84px;
 font-style: normal;
 font-weight: 700;
 line-height: 98px;
 letter-spacing: 0em;
 text-align: right;
-margin-top: 15%;
+margin-top: 25%;
 }
 
 .medicalBtn{
-margin-top: 10%;
-margin-left: 25%;
+margin-top: 4%;
+margin-left: 30%;
 background: #E5E5E5;
 border-radius: 5px;
 padding-top: 10px;
 padding-bottom: 10px;
-padding-left: 10px;
-padding-right: 10px;
+padding-left: 15px;
+padding-right: 15px;
 font-family: Roboto;
-font-size: 16px;
+font-size: 14px;
 font-style: normal;
-font-weight: 700;
+font-weight: 400;
 line-height: 28px;
 letter-spacing: 0em;
 text-align: right;
@@ -64,17 +63,17 @@ text-align: right;
 }
 
 .medicalBtn2{
-    margin-top: 10%;
-    background: #FE4A5B;
+margin-top: 4%;
+background: #FE4A5B;
 border-radius: 5px;
 padding-top: 10px;
 padding-bottom: 10px;
-padding-left: 10px;
-padding-right: 10px;
+padding-left: 15px;
+padding-right: 15px;
 font-family: Roboto;
-font-size: 16px;
+font-size: 14px;
 font-style: normal;
-font-weight: 700;
+font-weight: 500;
 line-height: 28px;
 letter-spacing: 0em;
 text-align: right;
@@ -91,7 +90,7 @@ font-weight: 700;
 line-height: 56px;
 letter-spacing: 0em;
 text-align: left;
-padding-left: 107px;
+padding-left: 5%;
 padding-top: -40px;
 
 }
@@ -101,8 +100,8 @@ padding-top: -40px;
 }
 
 .paraStyle{
-    font-family: Roboto;
-font-size: 24px;
+font-family: Roboto;
+font-size: 18px;
 font-style: normal;
 font-weight: 300;
 line-height: 30px;
