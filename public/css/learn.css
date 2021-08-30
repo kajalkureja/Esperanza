@@ -47,3 +47,7 @@
             
             }
         
+            .pagination {
+                display: inline-block;
+              }
+        
