@@ -16,8 +16,8 @@ padding: 4px 8px 4px 8px;
 	clear:both;
     height: 35px;
 }
-.feature_btns{
-}
+/* .feature_btns{
+} */
 #ftr_btn_1{
     background-color: #FE4A5B;
     margin-left: 30px;
@@ -140,6 +140,7 @@ color: black;
     background-image: url('../images/homepagebg.svg');
     background-position: left top;
     background-repeat: no-repeat;
+    padding-bottom: 250px ;
 }
 
 .aboutHeading{
@@ -150,7 +151,7 @@ font-weight: 700;
 line-height: 98px;
 letter-spacing: 0em;
 text-align: right;
-margin-top: 25%;
+margin-top: 30%;
 }
 
 .medicalBtn{
@@ -193,15 +194,14 @@ margin-left: 5%;
 }
 
 .aboutStyle{
-    font-family: Roboto;
-font-size: 48px;
+font-family: Roboto;
+font-size: 36px;
 font-style: normal;
 font-weight: 700;
 line-height: 56px;
 letter-spacing: 0em;
 text-align: left;
 padding-left: 5%;
-padding-top: -40px;
 
 }
 
@@ -211,13 +211,11 @@ padding-top: -40px;
 
 .paraStyle{
 font-family: Roboto;
-font-size: 18px;
+font-size: 14px;
 font-style: normal;
 font-weight: 300;
-line-height: 30px;
 letter-spacing: 0em;
 text-align: left; 
-padding-top: 10%;
 margin-left:-90px;
 }
 
