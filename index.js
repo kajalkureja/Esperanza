@@ -18,6 +18,10 @@ app.get("/records", function(req, res){
     res.render("records")
 });
 
+app.get("/explore", function(req, res){
+    res.render("learn")
+});
+
 app.listen(process.env.PORT || 3000, function(){
     console.log("Express server listening on port %d", this.address().port);
   });

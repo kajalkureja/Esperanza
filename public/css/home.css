@@ -18,112 +18,8 @@ padding: 4px 8px 4px 8px;
 }
 /* .feature_btns{
 } */
-#ftr_btn_1{
-    background-color: #FE4A5B;
-    margin-left: 30px;
-    margin-right: 10px;
-    border-radius: 9px;
-    height: 260px;
-    /* width: 286px; */
-    background-image:url('/images/4.png');
-    background-position: top;
-    /* background-position: 10px 10px; */
-    background-size:218px 177px ;
-    background-repeat: no-repeat;
-    background-position: 4px 8px ;
-    float:inline-end;
-    width: 33.33%;
-    box-sizing: border-box;
-}
-#ftr_btn_1 p{
-    background-color: black;
-    color: white;
-}
-#ftr_btn_2{
-    background-color: #E5E5E5;
-    margin-left: 10px;
-    margin-right: 10px;
-    border-radius: 9px;
-    height: 260px;
-    /* width: 286px; */
-    background-image:url('/images/6.png');
-    background-position: top;
-    /* background-position: 10px 10px; */
-    background-size:218px 177px ;
-    background-repeat: no-repeat;
-    background-position: 4px 8px ;
-    float:inline-end;
-    width: 33.33%;
-    box-sizing: border-box;
-}
-#ftr_btn_2 p{
-    background-color: black;
-    color: white;
-}
-#ftr_btn_3{
-    background-color: #E5E5E5;
-    margin-left: 10px;
-    margin-right: 20px;
-    border-radius: 9px;
-    height: 260px;
-    /* width: 286px; */
-    background-image:url('/images/5.png');
-    background-position: top;
-    /* background-position: 10px 10px; */
-    background-size:218px 177px ;
-    background-repeat: no-repeat;
-    background-position: 4px 8px ;
-    float:inline-end;
-    width: 33.33%;
-    box-sizing: border-box;
-}
-#ftr_btn_3 p{
-    background-color: black;
-    color: white;
-}
-#why_us_btn_1{
-    background-color: #E5E5E5;
-    border-radius: 9px;
-    margin-right: 10px;
-    height: 260px;
-    background-image:url('/images/8.png');
-    background-position: top;
-    background-size:218px 177px ;
-    background-repeat: no-repeat;
-    background-position: 4px 8px ;
-    float:inline-end;
-    width: 25%;
-    box-sizing: border-box;
-}
-#why_us_btn_2{
-    background-color: #FE4A5B;
-    border-radius: 9px;
-    margin-right: 10px;
-    margin-left: 10px;
-    height: 260px;
-    background-image:url('/images/7.png');
-    background-position: center;
-    background-size:230px 190px ;
-    background-repeat: no-repeat;
-    background-position: 30px 8px ;
-    float:inline-end;
-    width: 50%;
-    box-sizing: border-box;
-}
-#why_us_btn_3{
-    background-color: #E5E5E5;
-    border-radius: 9px;
-    margin-left: 10px;
-    height: 260px;
-    background-image:url('/images/9.png');
-    background-position: top;
-    background-size:218px 177px ;
-    background-repeat: no-repeat;
-    background-position: 4px 8px ;
-    float:inline-end;
-    width: 25%;
-    box-sizing: border-box;
-}
+
+
 .styleNav > li{
 font-family: Roboto;
 font-size: 14px;
@@ -202,12 +98,11 @@ line-height: 56px;
 letter-spacing: 0em;
 text-align: left;
 padding-left: 5%;
+margin-bottom: 7%;
 
 }
 
-#about{
-    padding-top: 5%;
-}
+
 
 .paraStyle{
 font-family: Roboto;
@@ -223,4 +118,15 @@ margin-left:-90px;
     background-image: url(../images/ellipse.svg);
     background-position: right;
     background-repeat: no-repeat;
+}
+
+.ftr-p{
+    font-family: Roboto;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+letter-spacing: 0em;
+text-align: center;
+
 }
