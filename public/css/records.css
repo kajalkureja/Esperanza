@@ -1,91 +1,73 @@
 .btnStyle{
-
-
     height: 40px;
     color:#fff;
     background-color: #FE4A5B;
     border-radius: 5px;
     font-family: Roboto;
-    font-size: 22px;
+    font-size: 14px;
     font-style: normal;
-    font-weight: 700;
     line-height: 26px;
     letter-spacing: 0em;
     text-align: left;
-    padding: 8px 8px 8px 8px;
+    font-weight: 400;
+    padding: 4px 8px 4px 8px;
+    }
+
+    .clr{
+        clear:both;
+        height: 35px;
     }
     
     .styleNav > li{
-        font-family: Roboto;
-    font-size: 22px;
+    font-family: Roboto;
+    font-size: 14px;
     font-style: normal;
-    font-weight: 400;
     line-height: 26px;
     letter-spacing: 0em;
     text-align: left;
-    padding-left: 10px;
+    padding-left: 8px;
+    color: black;
     }
-    
     
     .start{
         background-image: url('../images/homepagebg.svg');
         background-position: left top;
         background-repeat: no-repeat;
+        padding-bottom: 250px ;
     }
     
     .aboutHeading{
-        font-family: Arial, Helvetica, sans-serif;
-    font-size: 65px;
+    font-family: Roboto;
+    font-size: 64px;
     font-style: normal;
     font-weight: 700;
     line-height: 98px;
     letter-spacing: 0em;
     text-align: center;
-    margin-top: 15%;
-    }
-    
-    .medicalBtn{
-    margin-top: 10%;
-    margin-left: 25%;
-    background: #E5E5E5;
-    border-radius: 5px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 28px;
-    letter-spacing: 0em;
-    text-align: center;
-    
+    margin-top: 25%;
     }
     
     .medicalBtn2{
-        margin-top: 10%;
-        background: #FE4A5B;
+    margin-top: 4%;
+    margin-left: 30%;
+    background: #FE4A5B;
     border-radius: 5px;
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 14px;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 400;
     line-height: 28px;
     letter-spacing: 0em;
-    text-align: center;
-    color: #FFFFFF;
-    margin-left: 40%;
-    
+    text-align: right;
+    color: white;
     }
 
-    
     .aboutStyle{
-        font-family: Roboto;
+    font-family: Roboto;
     font-size: 48px;
     font-style: normal;
     font-weight: 700;
@@ -94,15 +76,14 @@
     text-align: left;
     padding-left: 107px;
     padding-top: -40px;
-    
     }
     
     #about{
-        padding-top: 5%;
+    padding-top: 5%;
     }
     
     .paraStyle{
-        font-family: Roboto;
+    font-family: Roboto;
     font-size: 24px;
     font-style: normal;
     font-weight: 300;
@@ -114,9 +95,52 @@
     }
     
     .bgAbout{
-        background-image: url(../images/ellipse.svg);
-        background-position: right;
-        background-repeat: no-repeat;
-       
-    
+    background-image: url(../images/ellipse.svg);
+    background-position: right;
+    background-repeat: no-repeat;
+    }
+
+    #records .btn1{
+        background-color: #FE4A5B;
+        color: white;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    #records .btn{
+        background-color: #E5E5E5;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    #info{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    .hospital{
+        margin-bottom: 0;
+        font-size: smaller;
+    }
+
+    .date{
+        font-size: smaller;
+        margin-bottom: 5px;
+    }
+
+    .card-title{
+        margin-bottom: 5px;
+    }
+
+    .card{
+        margin: 15px;
+    }
+
+    .card:hover{
+        background-color: #FE4A5B;
+        color: white;
+    }
+
+    .text:hover{
+        color: white;
     }
