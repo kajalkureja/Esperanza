@@ -32,10 +32,13 @@
     }
     
     .start{
-        background-image: url('../images/homepagebg.svg');
-        background-position: left top;
-        background-repeat: no-repeat;
-        padding-bottom: 250px ;
+    background-image: url('../images/homepagebg.svg');
+    background-color: #FAE8E8;
+    background-position: left top;
+    background-repeat: no-repeat;
+    padding-bottom: 250px ;
+    height: 650px;
+    margin-bottom: 80px;
     }
     
     .aboutHeading{
