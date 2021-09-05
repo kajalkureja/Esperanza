@@ -1,4 +1,5 @@
-$('.owl-carousel').owlCarousel({
+$(document).ready(function(){
+    $('.owl-carousel').owlCarousel({
     loop:true,
     margin:10,
     nav:true,
@@ -14,7 +15,7 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
-$('.owl-carousel').owlCarousel2({
+$('.owl-one').owlCarousel({
     loop:true,
     margin:10,
     nav:true,
@@ -23,10 +24,14 @@ $('.owl-carousel').owlCarousel2({
             items:1
         },
         600:{
-            items:3
+            items:6
         },
         1000:{
             items:4
+        },
+        1500:{
+            items:4
         }
     }
+})
 })
