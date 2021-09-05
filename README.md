@@ -25,7 +25,7 @@ Medica is a platform whose main idea involves automating the traditional way of 
 
 Since childhood, we have seen our adults keeping a large number of files at home to protect our medical records for future use. Every person knows the value and importance of protecting these records. However, when it comes to how to protect & value them, we fall short of options. There are situations when prescriptions get misplaced, damaged, or lost. These missing results and reports could have provided efficient and effective medical solutions to patients by making it easy for the doctors to check their previous medical records and ease patients comfort by using the existing technologies and systematically implementing them.
 
-<img src="https://user-images.githubusercontent.com/61119403/132132576-e16e8102-b34d-47ce-afea-5773dc5bb905.png" width=47%/><img src="https://user-images.githubusercontent.com/61119403/132132573-6987ad09-a897-4d24-9f2b-a215492ee51b.png" width=47%/>
+<img src="https://user-images.githubusercontent.com/61119403/132132576-e16e8102-b34d-47ce-afea-5773dc5bb905.png" width=47%/>  <img src="https://user-images.githubusercontent.com/61119403/132132573-6987ad09-a897-4d24-9f2b-a215492ee51b.png" width=47%/>
 
 ### Why does it matter?
 
