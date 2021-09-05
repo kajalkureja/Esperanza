@@ -36,7 +36,9 @@
         background-image: url('../images/aboutPage.svg');
         background-position: left top;
         background-repeat: no-repeat;
-        padding-bottom: 650px ;
+        height: 650px;
+    margin-bottom: 80px;
+    background-color: #FAE8E8;
     }
 
     .aboutHeading{
