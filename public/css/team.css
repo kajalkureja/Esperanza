@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background: linear-gradient(270deg, #ffead1, #ffb6bd, #e0b5ff);
+}
+
+.styleNav > li{
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-left: 8px;
+    color: black;
+    }
+
+    .btnStyle{
+        height: 40px;
+        color:#fff;
+        background-color: #FE4A5B;
+        border-radius: 5px;
+        font-family: Roboto;
+        font-size: 14px;
+        font-style: normal;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+        font-weight: 400;
+        padding: 4px 8px 4px 8px;
+        }
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #777;
+}
+
+h1 {
+    font-size: 36px;
+    color: #555;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 24px;
+    color: #333;
+    font-weight: bold;
+}
+
+
+
+#team i {
+    font-size: 26px;
+    color: #555;
+}
+
+#team p {
+    font-weight: 500;
+}
+
+#team .card {
+    border-radius: 0;
+    box-shadow: 5px 5px 15px #FE4A5B;
+    transition: all 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+}
+
+#team .card:hover {
+    background: #FE4A5B;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 5px 5px 10px #FAE8E8;
+}
+
+#team .card:hover h3,
+#team .card:hover i {
+    color: #fff;
+}
