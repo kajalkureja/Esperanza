@@ -53,7 +53,7 @@ body {
     inset 0 0px 120px rgba(255, 0, 47, 0.75);
   width: 45%;
   flex: none;
-  background-image: url("https://zephyo.github.io/22Days/code/3/graphics/profile.png");
+  background-image: url('../images/shrutii.jpeg');
   background-size: cover;
   background-position: center;
 }
