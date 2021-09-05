@@ -30,6 +30,10 @@ app.get("/knowmore", function(req, res){
     res.render("knowmore")
 });
 
+app.get("/profilepage", function(req, res){
+    res.render("profilepage")
+});
+
 app.listen(process.env.PORT || 3000, function(){
     console.log("Express server listening on port %d", this.address().port);
   });
