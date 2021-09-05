@@ -22,6 +22,10 @@ app.get("/explore", function(req, res){
     res.render("learn")
 });
 
+app.get("/know", function(req, res){
+    res.render("know")
+});
+
 app.listen(process.env.PORT || 3000, function(){
     console.log("Express server listening on port %d", this.address().port);
   });
