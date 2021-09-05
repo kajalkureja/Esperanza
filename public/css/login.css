@@ -9,6 +9,7 @@
 body,
 input {
   font-family: "Poppins", sans-serif;
+  background-color: #FAE8E8;
 }
 
 .container {
@@ -16,7 +17,7 @@ input {
   width: 100%;
   background-color:#FAE8E8;
   min-height: 100vh;
-  overflow: hidden;
+ 
 }
 
 .forms-container {

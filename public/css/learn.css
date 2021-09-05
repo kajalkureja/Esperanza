@@ -9,6 +9,21 @@
     color: black;
     }
 
+    .btnStyle{
+      height: 40px;
+      color:#fff;
+      background-color: #FE4A5B;
+      border-radius: 5px;
+      font-family: Roboto;
+      font-size: 14px;
+      font-style: normal;
+      line-height: 26px;
+      letter-spacing: 0em;
+      text-align: left;
+      font-weight: 400;
+      padding: 4px 8px 4px 8px;
+      }
+
     .start{
         background-image: url('../images/homepagebg.svg');
         background-color: #FAE8E8;
@@ -154,3 +169,5 @@
                 text-align: left;
                 padding-left: 5%;
                 }
+
+               

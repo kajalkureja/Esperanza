@@ -143,9 +143,9 @@
 
     .card:hover{
         background-color: #FE4A5B;
-        color: white;
+        color: white !important;
     }
 
     .text:hover{
-        color: white;
+        color: white !important;
     }
