@@ -109,7 +109,12 @@
         
         }
 
+        .para1{
+            font-size: 15px;
+            font-weight: 500;
+        }
+
         .para2{
-            padding-top: 40px;
+            padding-top: 6px;
         }
         
