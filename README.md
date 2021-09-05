@@ -29,15 +29,15 @@ Since childhood, we have seen our adults keeping a large number of files at home
 
 ### Why does it matter?
 
-Our solution to help our frontline workers is to provide them with clinical decision support and management tools to offer the best healthcare decisions is something that we all know about, it just has to be executed in a way that all of our efforts come together and make a bigger impact. Imagine going to the doctor for the treatment of diabetes and not taking your previous medical reports & prescriptions with you, because either you have misplaced them, or your child has used them in his art homework, or simply you have forgotten them at home. How odd would it be for a doctor to treat you without knowing your previous problems, solutions, side-effects and medicines? Now, think of the doctor having an app on his phone, by which he can scan the QR in your phone, or just simply type the Phone Number of yours, linked to your Aadhar Card, to get all your medical history. Now, your doctor has accurate test results in hand and details about your past & current medications. This would make the process much easier for the doctors to analyse the patient’s situation, and the doctor’s response would be much more reliable and perfect.
+Our solution to help our frontline workers is to provide them with clinical decision support and management tools to offer the best healthcare decisions is something that we all know about, it just has to be executed in a way that all of our efforts come together and make a bigger impact. Imagine going to the doctor for the treatment of diabetes and not taking your previous medical reports & prescriptions with you, because either you have misplaced them, or your child has used them in his art homework, or simply you have forgotten them at home. 
 
 <img src="https://user-images.githubusercontent.com/61119403/132132579-e2e24f4d-9688-4e66-a06c-f8ab489eeb37.png" width=47%/>
 
-## Demo video
+## Elevator Pitch video
 
 [![Watch the video]](https://www.youtube.com/watch?v=GNjueAQ1_sk)
 
-## Elevator Pitch video
+## Demo video
 
 [![Watch the video]](https://youtu.be/iEpURBefvgU)
 
