@@ -9,6 +9,9 @@ const requesthttps=require("request");
 app.set('view engine', 'ejs');
 app.use(express.static("public"));
 
+app.get("/", function(req, res){
+    res.render("login")
+});
 
 app.get("/home", function(req, res){
     res.render("home")
@@ -19,11 +22,14 @@ app.get("/records", function(req, res){
 });
 
 app.get("/explore", function(req, res){
-    res.render("learn")
+    res.render("explore")
 });
 
 app.get("/know", function(req, res){
     res.render("know")
+});
+app.get("/team", function(req, res){
+    res.render("team")
 });
 
 app.get("/knowmore", function(req, res){
