@@ -10,7 +10,7 @@ There is no appropriate way of recording the medical histories of the people of 
     - [What problems are we solving?](#what-problems-are-we-solving)
     - [Why does it matter?](#why-does-it-matter)
   - [Demo video](#demo-video)
-  - [The architecture](#the-architecture)
+  - [Elevator Pitch video](#demo-video)
   - [Project roadmap](#project-roadmap)
   - [Authors](#authors)
 
@@ -21,13 +21,12 @@ There is no appropriate way of recording the medical histories of the people of 
 
 Medica is a platform whose main idea involves automating the traditional way of writing prescriptions by digitalising them and keeping a record of them so that patients can track them easily anytime & anywhere. The platform won’t just be limited to securing medical reports & prescriptions, the patients will also have the opportunity to use the platform for getting the correct information about their disease, the tests they can take, and the doctors nearby to which they can consult, which will surely help patients make the best decision. Our vision for this platform was to ensure that all people and communities in our country receive the basic health services they need, when and where they need them without facing financial hardship. 
 
-<img src="https://user-images.githubusercontent.com/61119403/132132573-6987ad09-a897-4d24-9f2b-a215492ee51b.png" width=47%/>
-
 ### What problems are we solving?
 
 Since childhood, we have seen our adults keeping a large number of files at home to protect our medical records for future use. Every person knows the value and importance of protecting these records. However, when it comes to how to protect & value them, we fall short of options. There are situations when prescriptions get misplaced, damaged, or lost. These missing results and reports could have provided efficient and effective medical solutions to patients by making it easy for the doctors to check their previous medical records and ease patients comfort by using the existing technologies and systematically implementing them.
 
 <img src="https://user-images.githubusercontent.com/61119403/132132576-e16e8102-b34d-47ce-afea-5773dc5bb905.png" width=47%/>
+<img src="https://user-images.githubusercontent.com/61119403/132132573-6987ad09-a897-4d24-9f2b-a215492ee51b.png" width=47%/>
 
 ### Why does it matter?
 
@@ -38,6 +37,10 @@ Our solution to help our frontline workers is to provide them with clinical deci
 ## Demo video
 
 [![Watch the video]](https://www.youtube.com/watch?v=GNjueAQ1_sk)
+
+## Elevator Pitch video
+
+[![Watch the video]](https://youtu.be/iEpURBefvgU)
 
 <!--  
 ## Long description
